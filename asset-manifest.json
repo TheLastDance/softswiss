@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/softswiss/static/css/main.e901fe86.css",
+    "main.js": "/softswiss/static/js/main.28780248.js",
+    "static/media/Lato-ExtraBold.ttf.svg": "/softswiss/static/media/Lato-ExtraBold.ttf.9dd9cc700d8f56c75fa1.svg",
+    "static/media/ROCKET.svg": "/softswiss/static/media/ROCKET.a4389852c90b9d43571cac86eea0e8ab.svg",
+    "static/media/hero_background_big.jpg": "/softswiss/static/media/hero_background_big.4a183da8ccf6c20145c9.jpg",
+    "static/media/Lato-ExtraBold.ttf.eot": "/softswiss/static/media/Lato-ExtraBold.ttf.d4e0ba085a7225a0afb3.eot",
+    "static/media/hero_background.jpg": "/softswiss/static/media/hero_background.c446857f27ec58018e21.jpg",
+    "static/media/Lato-Bold.ttf.svg": "/softswiss/static/media/Lato-Bold.ttf.dd74507ca92a3beba720.svg",
+    "static/media/Lato-ExtraBold.ttf.woff": "/softswiss/static/media/Lato-ExtraBold.ttf.06803a74dc83ccb3deb1.woff",
+    "static/media/EARTH.png": "/softswiss/static/media/EARTH.809e40793c1558f1d8fa.png",
+    "static/media/grid_2.jpg": "/softswiss/static/media/grid_2.2af3d04e119a4dc19034.jpg",
+    "static/media/grid_4.jpg": "/softswiss/static/media/grid_4.4cbd95b69b6fb7ba64ac.jpg",
+    "static/media/Lato-Bold.ttf.eot": "/softswiss/static/media/Lato-Bold.ttf.b41714cb7dde8c945191.eot",
+    "static/media/grid_3.jpg": "/softswiss/static/media/grid_3.6b7644ab38dc24282e02.jpg",
+    "static/media/grid_1.jpg": "/softswiss/static/media/grid_1.9688f9a58227b954e7de.jpg",
+    "static/media/Lato-Bold.ttf.woff": "/softswiss/static/media/Lato-Bold.ttf.72b3036f0181e137546a.woff",
+    "static/media/LOGO.svg": "/softswiss/static/media/LOGO.f4153131d3955bdfa609912a9f3b5caf.svg",
+    "static/media/CART.svg": "/softswiss/static/media/CART.a972a509ad84bc10305a6456ecad6166.svg",
+    "static/media/BURGER.svg": "/softswiss/static/media/BURGER.7e65dcdbfcb4fb7f60ea90f61a0ab5f8.svg",
+    "static/media/CLOSE.svg": "/softswiss/static/media/CLOSE.60d4f41347544050a7b9d2915be4e499.svg",
+    "index.html": "/softswiss/index.html",
+    "main.e901fe86.css.map": "/softswiss/static/css/main.e901fe86.css.map",
+    "main.28780248.js.map": "/softswiss/static/js/main.28780248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e901fe86.css",
+    "static/js/main.28780248.js"
+  ]
+}
